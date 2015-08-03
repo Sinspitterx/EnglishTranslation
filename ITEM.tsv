@@ -3048,7 +3048,7 @@ ITEM_20150317_003047	Goods used as a provision for emergencies in the Mining Tow
 ITEM_20150317_003048	Reinforcement Material 
 ITEM_20150317_003049	Material required for reinforcement of the mine's exterior wall. Collect them before the wall crumbles. 
 ITEM_20150317_003050	Stinging Stick 
-ITEM_20150317_003051	A stick used to expel Sequoia. It has a few holy spirits. 
+ITEM_20150317_003051	A stick used to expel Sequoia. It holds a few holy spirits. 
 ITEM_20150317_003052	Piece of Wood with Holy Spirit 
 ITEM_20150317_003053	Ingredient for a tool that chases away road-blocking Sequoia. You can feel the faint holy power. 
 ITEM_20150317_003054	Spirit crystals from Owl statues that have been swallowed by monsters. 
@@ -3081,7 +3081,7 @@ ITEM_20150317_003080	This smell reminds me of my hometown. I miss my home.
 ITEM_20150317_003081	Abnormally Scented Ridimed Leaf. 
 ITEM_20150317_003082	Abnormally smelling juices are oozing from it. 
 ITEM_20150317_003083	Purified Urn 
-ITEM_20150317_003084	Quest item. 
+ITEM_20150317_003084	Quest item 
 ITEM_20150317_003085	Completed Monster Bait 
 ITEM_20150317_003086	A monster bait to complete the last mission of dead soldiers. 
 ITEM_20150317_003087	Test Bait 
@@ -3185,7 +3185,7 @@ ITEM_20150317_003184	The Saugas store their loot in bags. They share their loot 
 ITEM_20150317_003185	Archaeologist Token 
 ITEM_20150317_003186	A very ancient looking token of an Archaeologist. 
 ITEM_20150317_003187	Woodfung Poison 
-ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened. 
+ITEM_20150317_003188	The highly toxic poison of a Woodfung. It emits said poison into the air when frightened. 
 ITEM_20150317_003189	Bucket 
 ITEM_20150317_003190	Valley Bomb (Disposable) 
 ITEM_20150317_003191	Increases Attack Speed and Combat Movement Speed. {nl} Also speeds up Cast Time and lowers Cooldowns {nl} {#ff0000} Caution: Taking this more than 3 times a day, may cause insomnia{nl}, headache, or indigestion symptoms. {/} 
@@ -3201,7 +3201,7 @@ ITEM_20150317_003200	Lizardman Blood
 ITEM_20150317_003201	Cockatrice Blood 
 ITEM_20150317_003202	Lizardman Blood is used in experiments conducted by necromancers.  
 ITEM_20150317_003203	Soul Jar 
-ITEM_20150317_003204	A soul jar given by the necromancer Drasyus. It will inhale monsters who are on the verge of death. 
+ITEM_20150317_003204	A soul jar given by the necromancer Drasyus. It will absorb monsters who are on the verge of death. 
 ITEM_20150317_003205	First Clue of the Great King 
 ITEM_20150317_003206	A clue to undo the seal at the entrance of Royal Tomb. 
 ITEM_20150317_003207	Second Clue of the Great King 
@@ -3233,7 +3233,7 @@ ITEM_20150317_003232	A map that marked the location of the Great King's inherita
 ITEM_20150317_003233	Could someone eventually find out the location of the Great King Zachariel's inheritance? 
 ITEM_20150317_003234	An antidote that can counteract a Scorpion's poison. Let's get this to Dezic. 
 ITEM_20150317_003235	Collapsed Magical Resource 
-ITEM_20150317_003236	It seems it will explode if it is touched. Be careful. 
+ITEM_20150317_003236	It seems to explode when touched. Be careful. 
 ITEM_20150317_003237	Hogma Tooth. 
 ITEM_20150317_003238	A Hogma's tooth used to scratch out something on the slate. 
 ITEM_20150317_003239	Infrobirk Meat 
@@ -3255,7 +3255,7 @@ ITEM_20150317_003254	Luggage filled with  odds and ends
 ITEM_20150317_003255	Black Coal Powder 
 ITEM_20150317_003256	A magical black powder made from coal that makes ink stick clearly onto parchment. 
 ITEM_20150317_003257	Eternal Ember 
-ITEM_20150317_003258	A material needed to open the sealed manual. Doesn't go out no matter how much you try. 
+ITEM_20150317_003258	A material needed to open the sealed manual. Doesn't go out no matter how hard you try. 
 ITEM_20150317_003259	Piece of the Holy Ark 
 ITEM_20150317_003260	The Holy Ark for holding souls has been broken. Will collecting its pieces be enough? 
 ITEM_20150317_003261	Small Monster Crystal 
@@ -3473,7 +3473,7 @@ ITEM_20150317_003472
 ITEM_20150317_003473	Supply Pouch 
 ITEM_20150317_003474	A pouch of supplies looted by Vubbes. Let's take these to Yukurt to investigate the odd behaviour of the Vubbes. 
 ITEM_20150317_003475	Doki Oil 
-ITEM_20150317_003476	Oil that reeks with a Doki's scent. 
+ITEM_20150317_003476	Oil emitting  a Doki's scent. 
 ITEM_20150317_003477	Toolbox 
 ITEM_20150317_003478	Full of tools used to repair the scarecrow. 
 ITEM_20150317_003479	Death Marker 
@@ -3901,7 +3901,7 @@ ITEM_20150317_003900	Vubbe Thief Leather
 ITEM_20150317_003901	Leather of Vubbe Thief   
 ITEM_20150317_003902	Key obtained from Yonazolem. Seems to fit a treasure chest of some sort. 
 ITEM_20150317_003903	Moss 
-ITEM_20150317_003904	Moss that has attached to the back of the monster. It is dirty but dry. 
+ITEM_20150317_003904	Moss that was attached to the back of the monster. It is dirty but dry. 
 ITEM_20150317_003905	Scripture 
 ITEM_20150317_003906	The Scripture that anyone calling themselves a Pilgrim of the Cathedral would carry with them. 
 ITEM_20150317_003907	Test Soul Reagent 
@@ -4007,7 +4007,7 @@ ITEM_20150323_004006	Tended Wood
 ITEM_20150323_004007	Farmland Wood 
 ITEM_20150323_004008	Wood of the appropriate length and width to make a scarecrow. It will make an amazing scarecrow. 
 ITEM_20150323_004009	Condensed Cursed Energy 
-ITEM_20150323_004010	Cursed energy that has been condensed. Spat out from a monster as it died. 
+ITEM_20150323_004010	Cursed energy that has been condensed. Spat out by the monster as it died. 
 ITEM_20150323_004011	A symbol originally decorating the Austeja altar. It was broken during the monsters' attack. 
 ITEM_20150323_004012	Dulke's Item Package 
 ITEM_20150323_004013	A package that the merchant Dulke lost. It contains sundry goods. 
@@ -4510,7 +4510,7 @@ ITEM_20150401_004509	Magic doll that Rimas gave to Arunas. It removes unusual en
 ITEM_20150401_004510	Wooden Stick 
 ITEM_20150401_004511	 
 ITEM_20150401_004512	Monster Leather 
-ITEM_20150401_004513	Leather obtained from monsters. It is used as a material to various weapons. 
+ITEM_20150401_004513	Leather obtained from monsters. It is used as a material for various weapons. 
 ITEM_20150401_004514	Uprooted Leiole 
 ITEM_20150401_004515	 
 ITEM_20150401_004516	Orange Dandel Wing Piece 
@@ -4646,7 +4646,7 @@ ITEM_20150414_004645	A mysterious stone with the power of fire. Purchased from t
 ITEM_20150414_004646	Infro Rocktor Bone 
 ITEM_20150414_004647	The bones of an Infro Rocktor are just as sturdy as the shell. Obtained from Infro Rocktors. 
 ITEM_20150414_004648	Yekubite Teeth 
-ITEM_20150414_004649	Teeth that developed to grind meat. Obtained from Yekubites. 
+ITEM_20150414_004649	Teeth that evolved to grind meat. Obtained from Yekubites. 
 ITEM_20150414_004650	Yekubite Crystal 
 ITEM_20150414_004651	A crystal that only grows on the tail of Yekubite, it grows in size as the monster ages. Obtained from Yekubites. 
 ITEM_20150414_004652	Infro Holder Bones 
@@ -4689,7 +4689,7 @@ ITEM_20150414_004688	Tripede Thorn
 ITEM_20150414_004689	Red Infro Rocktor Core 
 ITEM_20150414_004690	The power source that moves the Red Infro Rockter. Grita, who can't use magic, needs it. 
 ITEM_20150414_004691	Lump of Kowak Meat 
-ITEM_20150414_004692	A lump of meat easily obtained from Kowak. Unfit for human consumption. 
+ITEM_20150414_004692	A lump of meat easily obtained from Kowak. Not suitable for human consumption. 
 ITEM_20150414_004693	A leafbud found commonly on the wild grasses of Starving Demon's Road. Edible, but not very tasty.. 
 ITEM_20150414_004694	Kepari Flesh 
 ITEM_20150414_004695	A piece of a Kepari's flesh torn off while hunting. The disgusting smell make it impossible to eat. 
@@ -4790,7 +4790,7 @@ ITEM_20150414_004789	Poison from an unidentified dagger. It seems to be related 
 ITEM_20150414_004790	A device that controls the growth of monsters. It seems to also work on crops. 
 ITEM_20150414_004791	An antidote recipe written by the Hunter Master. Combine the detoxifying solvent with the Rimedeed Leaf. 
 ITEM_20150414_004792	Charlotte's Special Potion 
-ITEM_20150414_004793	A special potion that only Charlotte knows how to make. It causes plants to wither die.  
+ITEM_20150414_004793	A special potion that only Charlotte knows how to make. It causes plants to wither.  
 ITEM_20150428_004794	Equipment that helps one in battle. 
 ITEM_20150428_004795	Yorgis Badelaire 
 ITEM_20150428_004796	Superior Dio Sword 
@@ -5301,17 +5301,17 @@ ITEM_20150714_005300	A beed that can collect the aura. It can be taken out and p
 ITEM_20150714_005301	Wisdom Guiding Stone 
 ITEM_20150714_005302	A mysterious jewel can lead to correct way. 
 ITEM_20150714_005303	A truth eye Fragment 
-ITEM_20150714_005304	Truth Eye's broken pieces. It is only available to collect all fragments. 
+ITEM_20150714_005304	Truth Eye's broken pieces. It is only usable when all fragments are collected. 
 ITEM_20150714_005305	Truth Eyes 
-ITEM_20150714_005306	allows you to see the reality of the soul. Let's try to insubstantial monster. 
+ITEM_20150714_005306	Allows you to see the reality of the soul. Let's try to insubstantial monster. 
 ITEM_20150714_005307	Soul Crystal 
-ITEM_20150714_005308	wandering pulling force can pull the soul. It is necessary to find a condensed wanted. 
+ITEM_20150714_005308	Wandering pulling force can pull the soul. It is necessary to find a condensed wanted. 
 ITEM_20150714_005309	Left to click to use 
 ITEM_20150714_005310	A memo written by Hones about a teacher's said. You can know how to release the device installed at Ritnis catacombs. Cab read 
 ITEM_20150714_005311	Contract Space Magic Stone 
-ITEM_20150714_005312	A space magic stone fragment of the broken contract. In order to work correctly, it seems to need the restore operation. 
-ITEM_20150714_005313	If you collect the more space magic stones, you can go to a hidden place of the teacher. 
-ITEM_20150714_005314	A magic stone used to move the Teleport. You can go a hidden place of the teacher. 
+ITEM_20150714_005312	A space magic stone fragment of the broken contract. In order to work correctly, you have to collect all fragments. 
+ITEM_20150714_005313	If you collect all fragments of the space magic stones, you can go to a hidden place of the teacher. 
+ITEM_20150714_005314	A magic stone used as a Teleport. You can go to a hidden place of the teacher. 
 ITEM_20150714_005315	Kupole Vita's purification powder 
 ITEM_20150714_005316	A powder contained the spirirt of holy purification gave by Vita. You can purify the evil spirit to use it. 
 ITEM_20150714_005317	Remains tied to the contract 
@@ -5320,7 +5320,7 @@ ITEM_20150714_005319
 ITEM_20150714_005320	 
 ITEM_20150714_005321	 
 ITEM_20150714_005322	 
-ITEM_20150714_005323	magic scroll capable of absorbing weak Chemical frost. 
+ITEM_20150714_005323	Magic scroll capable of absorbing weak Chemical frost. 
 ITEM_20150714_005324	Proof of Silt 
 ITEM_20150714_005325	The monster who was the sign of a weak armor. Movement speed increased slightly. 
 ITEM_20150714_005326	Krio maenseo Costas petrified by asking the detector. I have trouble. 
@@ -5333,7 +5333,7 @@ ITEM_20150714_005332	Processed Bomb
 ITEM_20150714_005333	Hardened Explosives 
 ITEM_20150714_005334	Kingdom Army Propaganda 
 ITEM_20150714_005335	A propaganda to encourage the surrender sprayed by Kingdom army when the rebellion, 600 years ago 
-ITEM_20150714_005336	part of the soul of torn monarch Houberg. 
+ITEM_20150714_005336	Part of the soul of torn monarch Houberg. 
 ITEM_20150714_005337	Houberg's soul divided itself in order to escape. 
 ITEM_20150714_005338	the ground of the fort built at the time, was hustle and explosives used. Complaints can be easily attaching to burst. 
 ITEM_20150714_005339	that the Tomb building can hear the voice of the king in the chapel Here is rumored Jar. 
@@ -5411,7 +5411,7 @@ ITEM_20150714_005410	A bubbling liquid. Mix it with an acidic solution to create
 ITEM_20150714_005411	A metal plate sought after by Alwida. 
 ITEM_20150714_005412	Corrosives given to you by Alwida. It can corrode metal plates. 
 ITEM_20150714_005413	A metal plate that was laid below vines. It's in good condtion. 
-ITEM_20150714_005414	A stick obtained from monsters. It's uniquely metallc. 
+ITEM_20150714_005414	A stick obtained from monsters. It's uniquely metallic. 
 ITEM_20150714_005415	Strangly Energized Stone 
 ITEM_20150714_005416	A stone with an unusual aura. By rubbing it against a stick one can make a Detection Rod. 
 ITEM_20150714_005417	Detection Rod 
@@ -5604,7 +5604,7 @@ ITEM_20150717_005603
 ITEM_20150717_005604	- Out of Body adds Spirit to Basic Attack as bonus damage 
 ITEM_20150717_005605	
 ITEM_20150717_005606	
-ITEM_20150717_005607	It is powerful against Mutant type monsters but no ones why.
+ITEM_20150717_005607	It is powerful against Mutant type monsters but no one knows why.
 ITEM_20150717_005608	
 ITEM_20150717_005609	
 ITEM_20150717_005610	
@@ -5711,7 +5711,7 @@ ITEM_20150717_005710
 ITEM_20150717_005711	
 ITEM_20150717_005712	
 ITEM_20150717_005713	
-ixITEM_20150717_005714	The most common type of shoes. Many civilians wear it too. 
+ixITEM_20150717_005714	The most common type of shoes. Many civilians wear it, too. 
 ITEM_20150717_005715	
 ITEM_20150717_005716	
 ITEM_20150717_005717	
@@ -5813,7 +5813,7 @@ ITEM_20150717_005812
 ITEM_20150717_005813	
 ITEM_20150717_005814	
 ITEM_20150717_005815	
-ITEM_20150717_005816	A solid core of petrified monster
+ITEM_20150717_005816	A solid core of a petrified monster
 ITEM_20150717_005817	A hard nucleus from a petrified monster.
 ITEM_20150717_005818	
 ITEM_20150717_005819	Detonator
