@@ -4723,7 +4723,7 @@ SKILL_20150717_004722	Movement speed - #{CaptionRatio}# {nl}Magic circle duratio
 SKILL_20150717_004723	Make Shogos molded after the card inserted in Necronomicon. The attack and defense of summoned devil will be decided according to character's INT, SPR. Necronomicon can equip only Animal, Plant, and Mutant type cards.
 SKILL_20150717_004724	Shogos additional attack #{CaptionRatio}#{nl}Shogos additonal defense #{CaptionRatio2}#{nl}Use{nl} Plant, Beast, Mutant corpse#{CaptionTime}#
 SKILL_20150717_004725	{#DD5500}{ol}[Physidal] - [Stab]{/}{/}{nl}Install trap that bounces off enemy when stepped on.
-SKILL_20150717_004726	Install a Ogue pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
+SKILL_20150717_004726	Install an Ogue pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.
 SKILL_20150717_004727	Physical defense decrease
 SKILL_20150717_004728	Defense decrease
 SKILL_20150717_004729	Periodically receive Fire damages
