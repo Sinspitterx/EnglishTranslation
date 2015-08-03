@@ -4714,7 +4714,7 @@ SKILL_20150717_004713	Your attack hits target but chance of critical and critica
 SKILL_20150717_004714	Critical Chance -#{CaptionRatio}#%{nl}Critical Resistance -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150717_004715	Temporarily decrease defense of nearby enemies, and add that much to your ATK.
 SKILL_20150717_004716	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Tramp down on enemy while on air or jumping. Attack damages will be decided,according to the Character's height and Shoes's defense.
-SKILL_20150717_004717	Caputre time #{CaptionRatio}#seconds
+SKILL_20150717_004717	Capture time #{CaptionRatio}#seconds
 SKILL_20150717_004718	Attack - #{CaptionRatio}#% {nl}Increase defense according to reduced attack{nl}Additonal defense #{CaptionRatio2}#%{nl}Use SP 2 % per 2 seconds
 SKILL_20150717_004719	Attack #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}#seconds{nl}Range Attack Ratio #{SkillSR}#
 SKILL_20150717_004720	Summon the devil of card inserted in Grimore. The attack and defense of summoned devil will be decided according to character's INT, SPR. Grimore can only equip Devil type monster card.
