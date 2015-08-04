@@ -5024,7 +5024,7 @@ QUEST_LV_0200_20150323_005023	It seems that the nutritious tonic is well diluted
 QUEST_LV_0200_20150323_005024	Bring the nutritious tonic to the farmers
 QUEST_LV_0200_20150323_005025	Stephas told you bring the nutritious tonic to Dalryus. Let's also bring the leaves of sweet herbs so he can eat more comfortably.
 QUEST_LV_0200_20150323_005026	Hand over the medicine to Dalryus
-QUEST_LV_0200_20150323_005027	Since you have sweer herb leaves now, hand the nutritious tonic to Dalryus
+QUEST_LV_0200_20150323_005027	Since you have sweet herb leaves now, hand the nutritious tonic to Dalryus
 QUEST_LV_0200_20150323_005028	Talk with Dalryus
 QUEST_LV_0200_20150323_005029	Tell Dalryus to consume the tonic
 QUEST_LV_0200_20150323_005030	Go back to Stephas
@@ -5059,7 +5059,7 @@ QUEST_LV_0200_20150323_005058	Talk with Arunas
 QUEST_LV_0200_20150323_005059	The tasks that Arunas ordered you to do
 QUEST_LV_0200_20150323_005060	Arunas told you that you should block the strange energy in that place and gave you a few pieces of wooden sticks and a doll to be used for spells. Make the magic field at the place where the strange energy exists and burn the doll to block the energy.
 QUEST_LV_0200_20150323_005061	Report to Arunas
-QUEST_LV_0200_20150323_005062	You've created the magic field that eliminates the strange enery and burned the doll, but it seems that the crops are withering. Anyways, report to Arunas that you successfully created the magic field.
+QUEST_LV_0200_20150323_005062	You've created the magic field that eliminates the strange energy and burned the doll, but it seems that the crops are withering. Anyways, report to Arunas that you successfully created the magic field.
 QUEST_LV_0200_20150323_005063	Meet the probationary magician
 QUEST_LV_0200_20150323_005064	There is the probationary magician. Go talk to him.
 QUEST_LV_0200_20150323_005065	Enhance the magic field
@@ -5108,7 +5108,7 @@ QUEST_LV_0200_20150323_005107	The thing that was buried under the ground was not
 QUEST_LV_0200_20150323_005108	Open the alcohol box
 QUEST_LV_0200_20150323_005109	It is strange that the alcohol container is in that location. Get closer to it and open it.
 QUEST_LV_0200_20150323_005110	Break the alcohol container
-QUEST_LV_0200_20150323_005111	As you were about to open the alcohol container, monsters appeared and tried to disturb! Avoid the attacks from the monsters and break the container within a time frame and open it!
+QUEST_LV_0200_20150323_005111	As you were about to open the alcohol container, monsters appeared and tried to ambush! Avoid the attacks from the monsters and break the container within a time frame and open it!
 QUEST_LV_0200_20150323_005112	Look for a person who would find the clues
 QUEST_LV_0200_20150323_005113	You've found pieces that seemed to be belong to the upper body of the small statue from the broken container. Bring this to someone to find out the true nature of it.
 QUEST_LV_0200_20150323_005114	Look closely at the wooden alcohol container
@@ -5164,7 +5164,7 @@ QUEST_LV_0200_20150323_005163	You've obtained some wooden sticks. Take the stick
 QUEST_LV_0200_20150323_005164	Collaborate with Horaceus
 QUEST_LV_0200_20150323_005165	Talk to Horaceus to help him what he is preparing
 QUEST_LV_0200_20150323_005166	Obtain hard stones
-QUEST_LV_0200_20150323_005167	Let's collect some stones to help Horaceus' big task. You can get them from the monsters.
+QUEST_LV_0200_20150323_005167	Let's collect some stones to help with Horaceus' big task. You can get them from the monsters.
 QUEST_LV_0200_20150323_005168	Hand them over to Horaceus
 QUEST_LV_0200_20150323_005169	Take the stones that you obtained from the monsters to Horaceus
 QUEST_LV_0200_20150323_005170	Help Horaceus
@@ -5250,7 +5250,7 @@ QUEST_LV_0200_20150323_005249	Search for the clues of the massive chaos at the s
 QUEST_LV_0200_20150323_005250	Pyromancer Master can feel some unknown poison and the spell. Go back to the settlement land and find out the true nature of the poison and the spell.
 QUEST_LV_0200_20150323_005251	You've found a leather and a dagger with the magic field drawn in them at Nuodo Bank. Take them to Pyromancer Master.
 QUEST_LV_0200_20150323_005252	Destroy the unknown altar
-QUEST_LV_0200_20150323_005253	Unfortunately, Pyromancer Master doesn't know well about the spell. Talk to Pyromancer Master again.
+QUEST_LV_0200_20150323_005253	Unfortunately, Pyromancer Master is not knowledged well about the spell. Talk to Pyromancer Master again.
 QUEST_LV_0200_20150323_005254	Talk to Bokor Master about the true nature of the spell.
 QUEST_LV_0200_20150323_005255	Bokor Master knows well about the spells. Ask Bokor Master about the true nature of the spells.
 QUEST_LV_0200_20150323_005256	Bokor Master told you that the spell spreads the poison that is on the the dagger. But, he told you that he doesn't know well about the dagger so told you to meet Ranger Master.
@@ -5293,7 +5293,7 @@ QUEST_LV_0200_20150323_005292	Obtain %s that will be used as the materials for t
 QUEST_LV_0200_20150323_005293	Obtain the materials that are lacking by defeating the monsters
 QUEST_LV_0200_20150323_005294	It seems that something is not going well for Gares. Talk to Gares.
 QUEST_LV_0200_20150323_005295	Collect the samples of Shakmoli
-QUEST_LV_0200_20150323_005296	Gares told you that the rate at the crops are growing is not fast so he wants to know why. Please obtain the samples of orange Shakmolis.
+QUEST_LV_0200_20150323_005296	Gares told you that the rate at which the crops are growing is slow so he wants to know why. Please obtain the samples of orange Shakmolis.
 QUEST_LV_0200_20150323_005297	Hand them over to Gares
 QUEST_LV_0200_20150323_005298	You've obtained the samples of Shakmolis. Hand them over to Gares.
 QUEST_LV_0200_20150323_005299	Talk to Gares
@@ -5313,7 +5313,7 @@ QUEST_LV_0200_20150323_005312	Talk to the spirit of Haubuck
 QUEST_LV_0200_20150323_005313	Talk to the spirit of Haubuck
 QUEST_LV_0200_20150323_005314	Talk to Kupole Audra
 QUEST_LV_0200_20150323_005315	Talk to Kupole Audra at the demons' prison
-QUEST_LV_0200_20150323_005316	Kupole Audra asked you to defeat the monsters that are having the ritual ceremony to help Blut's escape at the Rituala gathering place.
+QUEST_LV_0200_20150323_005316	Kupole Audra asked you to defeat the monsters that are holding the ritual ceremony to help Blut's escape at the Rituala gathering place.
 QUEST_LV_0200_20150323_005317	Obtain the secreting bland of the monsters
 QUEST_LV_0200_20150323_005318	Get the secreting bland from the subordinates of Bluts
 QUEST_LV_0200_20150323_005319	Defeat the monsters and obtain %s
@@ -5439,7 +5439,7 @@ QUEST_LV_0200_20150323_005438	You've obtained enough amount of Tanus' fluid that
 QUEST_LV_0200_20150323_005439	Collect %s from Tanu
 QUEST_LV_0200_20150323_005440	It seems that Druid Elly has her last request. Talk to Druid Elly.
 QUEST_LV_0200_20150323_005441	Look for a person who is likely to know the whereabout of Martineque at Shaton farm
-QUEST_LV_0200_20150323_005442	Druid Elly told you hand over the box to Druid Martineque at Shaton Farm. Find the person who is likely to know the whereabout of Druid Martineque.
+QUEST_LV_0200_20150323_005442	Druid Elly told you to hand over the box to Druid Martineque at Shaton Farm. Find the person who is likely to know the whereabouts of Druid Martineque.
 QUEST_LV_0200_20150323_005443	Open the small box
 QUEST_LV_0200_20150323_005444	As you checked through the soil, a suspicious box appeared. Let's check what's inside.
 QUEST_LV_0200_20150323_005445	Search for Druid Joel after moving to Shaton Farm
@@ -5509,7 +5509,7 @@ QUEST_LV_0200_20150323_005508	You are now ready to restore the old seeds. Talk w
 QUEST_LV_0200_20150323_005509	Move to the reservoir district of Shaton
 QUEST_LV_0200_20150323_005510	Druid Martineque told you that he will persuade the owner of the farm, Shaton to plant the seeds. Meet Druid Martineque at the reservoir district at Shaton.
 QUEST_LV_0200_20150323_005511	Talk with the private soldier of the farm, Gedson
-QUEST_LV_0200_20150323_005512	Gedson is mad at you. Talk with Gedson what's the matter.
+QUEST_LV_0200_20150323_005512	Gedson is mad at you. Talk with Gedson to find out what's the matter.
 QUEST_LV_0200_20150323_005513	Defeat Cist
 QUEST_LV_0200_20150323_005514	Gedson told you to help him since you can't enter the farm without the permission from Gedson. Defeat Cist nearby.
 QUEST_LV_0200_20150323_005515	You've defeated all the Cists. Tell the private soldier of the farm, Gedson.
@@ -5630,7 +5630,7 @@ QUEST_LV_0200_20150401_005629	Come back if it gets spoiled.{nl}But there are onl
 QUEST_LV_0200_20150401_005630	Did my brother asked you to give it to me?{nl}I am tired anyways and I don't know why these kind of things are keep occuring. Anyways, thanks.
 QUEST_LV_0200_20150401_005631	Is it okay now?{nl}Okay then hand it over to Dalryus.
 QUEST_LV_0200_20150401_005632	Are you scared?
-QUEST_LV_0200_20150401_005633	Strange. Isn't it? How come the food gets spoiled whenever I cross there.{nl}Is it because of the smoke there?{nl}
+QUEST_LV_0200_20150401_005633	Strange, isn't it? How come the food gets spoiled whenever I cross there.{nl}Is it because of the smoke there?{nl}
 QUEST_LV_0200_20150401_005634	How would I know about it. {nl}If you are going back to my brother, please get rid of those strange things. I can't do it since I am scared.
 QUEST_LV_0200_20150401_005635	If they are getting spoiled due to the smoke, what is that anyways..{nl}It's not good for health right?
 QUEST_LV_0200_20150401_005636	I actually suspected those round things that are making the smoke.{nl}But they were keep saying it was created by the baron, so how would I know about it who only used to harvest.
@@ -5716,7 +5716,7 @@ QUEST_LV_0200_20150401_005715	The subordinates of the demon lord, Blut are tryin
 QUEST_LV_0200_20150401_005716	Well done. You've blocked the most emergent thing.{nl}Now it the time to block the power of the demon lord, Blut.
 QUEST_LV_0200_20150401_005717	Finally I met the one whom my spirit was looking for.{nl}I am the demon lord, Haubuck. I have a suggetion to you.{nl}
 QUEST_LV_0200_20150401_005718	Please help me to get a part of my spirit.{nl}The place where the goddess of the night star, Vakarine exists.. It will be an interesting suggestion to you.
-QUEST_LV_0200_20150401_005719	Okay. The deal is established.{nl}Don't worry. I won't hurt you.
+QUEST_LV_0200_20150401_005719	Okay. The deal is sealed.{nl}Don't worry. I won't hurt you.
 QUEST_LV_0200_20150401_005720	Strange.{nl}Unlike other humans, I can't possess your body.{nl}
 QUEST_LV_0200_20150401_005721	We have no other choice. Take my seal piece and go in there.{nl}I will guide you from there.
 QUEST_LV_0200_20150401_005722	Now, Gidrone is holding Blut.{nl}But, I don't know how much we can endure by ourselves.{nl}
@@ -5973,7 +5973,7 @@ QUEST_LV_0200_20150401_005972	Clean up the sack of garbage in Tbora way
 QUEST_LV_0200_20150401_005973	Sergeant Tadas says there is a place where sacks of garbage is gathered and asked you to take care of it. Go there and push the garbage down the cliff.
 QUEST_LV_0200_20150401_005974	Check out the suspicious sack
 QUEST_LV_0200_20150401_005975	Talk to the man inside the sack
-QUEST_LV_0200_20150401_005976	A man can out of the sack! Talk to him to find out what's happening.
+QUEST_LV_0200_20150401_005976	A man came out of the sack! Talk to him to find out what's happening.
 QUEST_LV_0200_20150401_005977	Check out the grassland
 QUEST_LV_0200_20150401_005978	Return to Sergeant Tadas
 QUEST_LV_0200_20150401_005979	Talk to Soldier Stephas
@@ -6174,7 +6174,7 @@ QUEST_LV_0200_20150406_006173	Oh, this is a very important device. {nl}The porta
 QUEST_LV_0200_20150406_006174	Anyway, it's something needed to remove the strange aura in this land. {nl}I'm talking about purification. Isn't it such a problem.
 QUEST_LV_0200_20150406_006175	Well, how is it going?
 QUEST_LV_0200_20150406_006176	Thank you. Check the magic circle in the test area first. {nl}If you come across a weird crystal, it's a working magic circle so you just have to destroy the crytal only.{nl}
-QUEST_LV_0200_20150406_006177	But if there is no crystal, then it mean there is a problem. {nl}You just have to gather the evil force of monsters in this bottle and bury it near the magic circle.
+QUEST_LV_0200_20150406_006177	But if there is no crystal, then it means there is a problem. {nl}You just have to gather the evil force of monsters in this bottle and bury it near the magic circle.
 QUEST_LV_0200_20150406_006178	Great. {nl}But this isn't the only problem.
 QUEST_LV_0200_20150406_006179	That power device works with power of nature. {nl}But the monsters area preying on that warehouse and it's become a problem.
 QUEST_LV_0200_20150406_006180	Luckily, the tenant farmers are cooperative. {nl}But it's a pain that the mosnters are preying on that warefhouse.
@@ -6205,7 +6205,7 @@ QUEST_LV_0200_20150406_006204	There are magic circles around the that suppress t
 QUEST_LV_0200_20150406_006205	Anyway, please help us get leather for making weapons. {nl}You can get it from the monsters nearby.
 QUEST_LV_0200_20150406_006206	There are strange auras speard all over the farm.{nl}The baron said it is dangerous and ordered to make magic circles around to suppress it.
 QUEST_LV_0200_20150406_006207	But nobody was damaged by the strange aura. {nl}It's not even funny. The crops rather grew well.
-QUEST_LV_0200_20150406_006208	We won't just standy by anymore.
+QUEST_LV_0200_20150406_006208	We won't just stand by anymore.
 QUEST_LV_0200_20150406_006209	That will be enough. Thank you. {nl}To be honest, I don't care what the baron wants. {nl}But..
 QUEST_LV_0200_20150406_006210	I mean even if what the baron wants really is purification. {nl}With my colleagues gone, it's nonsense that I have to bear the expensive farm rent fees.
 QUEST_LV_0200_20150406_006211	That's what I think. Now.. I have to collect poison. {nl}It will be useful around.
@@ -6253,7 +6253,7 @@ QUEST_LV_0200_20150406_006252	At least you don't look like baron's people. {nl}W
 QUEST_LV_0200_20150406_006253	The baron is doing something to purify this farm. {nl}But recently the crops are dying and people are starting to fall sick. {nl}
 QUEST_LV_0200_20150406_006254	At first I didn't believe it but if this piece is really the Goddess Statue.. {nl}It's either the baron is lying to us or something is wrong.
 QUEST_LV_0200_20150406_006255	First, I better stick the pieces together. {nl}It may be a little blasphemous but can you get some sticky secertion from the monsters?
-QUEST_LV_0200_20150406_006256	I feel like it's soiling the Goddess Statue but I have nothing so we'll ahve to settle for that. {nl}The Goddess will forgive us.
+QUEST_LV_0200_20150406_006256	I feel like it's soiling the Goddess Statue but I have nothing so we'll have to settle for that. {nl}The Goddess will forgive us.
 QUEST_LV_0200_20150406_006257	Yes. That will be enough. Let me try sticking this first. {nl}Oh, and one more thing.
 QUEST_LV_0200_20150406_006258	The baron has a bad reputation because of the things he has done. {nl}And for what he's been up to nowadays.. He must be planning on something. {nl}
 QUEST_LV_0200_20150406_006259	Some people say the baron is human after all so he won't do such things. {nl}So we need to collect clues to pursuade them.
@@ -6270,7 +6270,7 @@ QUEST_LV_0200_20150406_006269	You can remove it by lighting fire with my firewoo
 QUEST_LV_0200_20150406_006270	I think it's better to get kindlings from the Dandels all over the area to keep the fire.
 QUEST_LV_0200_20150406_006271	I can stand paying ridiculous farm rent fees at times like this. {nl}But how can he do that as a human?
 QUEST_LV_0200_20150406_006272	Did you solve it? {nl}That's great. But there are more magic circles.
-QUEST_LV_0200_20150406_006273	If the magic circles are really a like, then you should be able to remove the magic circles in Talia trails with Goddess' power. {nl}I mean something like the Goddess Statue. Is there any way to get it?
+QUEST_LV_0200_20150406_006273	If the magic circles are really alike, then you should be able to remove the magic circles in Talia trails with Goddess' power. {nl}I mean something like the Goddess Statue. Is there any way to get it?
 QUEST_LV_0200_20150406_006274	If the magic circle really is good, I can just pay more rent and ask for forgiveness. {nl}We'll know for sure if we check with Goddess' power.
 QUEST_LV_0200_20150406_006275	But if it isn't, the baron better prepared. {nl}He fooled us, harmed the land, and lose colleagues.
 QUEST_LV_0200_20150406_006276	Indeed Joana had it. Use that power to remove the magic circle. {nl}Then checking the crops around will make it sure.
@@ -6296,7 +6296,7 @@ QUEST_LV_0200_20150406_006295	Even now, Houberg's servants think Nuaele is Hoube
 QUEST_LV_0200_20150406_006296	But Nuaele is acting strangely. {nl}With the powers she's been collecting, it's actually enough to break through the barrier. {nl}
 QUEST_LV_0200_20150406_006297	You will need Houberg's help. {nl}Houberg is also a demon so he must be able to read the thoughts.
 QUEST_LV_0200_20150406_006298	She planned to make this Velnias prison her demonic world from the start. {nl}If this place falls under her hands, not even Ausrine will be able to do anything about it.
-QUEST_LV_0200_20150406_006299	What about striking the mosnters in 4th Isolation area first? {nl}If we defeat them, it will be like gettting rid of Nuaele's strongest weapons.
+QUEST_LV_0200_20150406_006299	What about striking the monsters in 4th Isolation area first? {nl}If we defeat them, it will be like gettting rid of Nuaele's strongest weapons.
 QUEST_LV_0200_20150406_006300	They used to be Houberg's servants. I'm sure Houberg doesn't need them anymore. {nl}They ran to Nuaele right away the minute Houberg was sealed and gave her the Piece of Seal.
 QUEST_LV_0200_20150406_006301	Nuaele was eliminated, but the demons at the 4th isolated area are still not following her order.{nl}If you don't eliminate her fragments from them, the demons would move again.
 QUEST_LV_0200_20150406_006302	{nl}We should not let this kind of thing occur again in the future.{nl}Please retrieve the fragments of Nuaele by defeating the demons at the 4th isolated area.
@@ -6432,7 +6432,7 @@ QUEST_LV_0200_20150406_006431	You can see the old box. Get near it and open it.
 QUEST_LV_0200_20150406_006432	Destroy the box
 QUEST_LV_0200_20150406_006433	As you were trying to open the box, the monsters appeared and tried to disturb. Avoid the attacks of the monsters and break the box to open it within the time frame.
 QUEST_LV_0200_20150406_006434	Investigate the wooden alcohol container
-QUEST_LV_0200_20150406_006435	It is strange to see the wooden alcohol container at the place like here where there aren't not many people around. Go near it and look at it closely.
+QUEST_LV_0200_20150406_006435	It is strange to see the wooden alcohol container at a place like this where there aren't many people around. Go near it and look at it closely.
 QUEST_LV_0200_20150406_006436	Make the wooden hammer and open the alcohol container.
 QUEST_LV_0200_20150406_006437	When you open it carelessly, the things that are inside the container may break so you should be careful. Obtain some nearby materials that could be used to make a wooden hammer and open the container.
 QUEST_LV_0200_20150406_006438	There is a statue stuck on the ground that look like wings. Get closer to it and look at it.
@@ -6461,11 +6461,11 @@ QUEST_LV_0200_20150406_006460	As you put the statue of the goddess on the magic 
 QUEST_LV_0200_20150406_006461	The crops became alive again. With the power of the statue of the goddess, the magic fields have disappeared and the crops became alive again. Report this to Baras.
 QUEST_LV_0200_20150406_006462	Talk to Jugas
 QUEST_LV_0200_20150406_006463	There's a farmer who needs your help. Talk to Jugas.
-QUEST_LV_0200_20150406_006464	Look for the sacks of the grains
-QUEST_LV_0200_20150406_006465	Jugas wants you to retrieve the sacks of the grains from the monsters. Look for the sacks of the grains from the monsters nearby.
+QUEST_LV_0200_20150406_006464	Look for the sacks of grains
+QUEST_LV_0200_20150406_006465	Jugas wants you to retrieve the sacks of grains from the monsters. Look for the sacks of grains from the monsters nearby.
 QUEST_LV_0200_20150406_006466	Hand them over to Jugas
-QUEST_LV_0200_20150406_006467	You've found all the sacks of the grains. Hand them over to Jugas.
-QUEST_LV_0200_20150406_006468	Retrieve the sacks of the grains from the monsters
+QUEST_LV_0200_20150406_006467	You've found all the sacks of grains. Hand them over to Jugas.
+QUEST_LV_0200_20150406_006468	Retrieve the sacks of grains from the monsters
 QUEST_LV_0200_20150406_006469	Collect the wooden sticks
 QUEST_LV_0200_20150406_006470	Horaceus told you that he needs many wooden sticks to make weapons. Obtain some sticks from the nearby fences.
 QUEST_LV_0200_20150406_006471	You've obtained many wooden sticks. Hand them over to Horaceus.
@@ -6539,10 +6539,10 @@ QUEST_LV_0200_20150406_006538	You've collected all of the empty spirits. Hand th
 QUEST_LV_0200_20150406_006539	It seems that the small crossover spaces keep expanding from various places. Talk to Kupol Sigita again.
 QUEST_LV_0200_20150406_006540	Kupol Sigita asked you to eliminate the small crossover spaces that are remaining as a result of the disaster at Gabara Isolated Area.
 QUEST_LV_0200_20150406_006541	You've eliminated all the crossover spaces. Go back to Kupol Sigita.
-QUEST_LV_0200_20150406_006542	Collect the toe nails of the orange lizard men
+QUEST_LV_0200_20150406_006542	Collect the toe nails of the orange Lizard Men
 QUEST_LV_0200_20150406_006543	Druid Elley told you that a mysterious girl left this tree a long time ago so she wants know the true identity of the tree. First, obtain the toe nails of Lizard Men near the abondoned grape farm.
 QUEST_LV_0200_20150406_006544	Hand over the toe nails to Druid Elley
-QUEST_LV_0200_20150406_006545	You've obtained all the toe nails of Lizard men to find out the true nature of the tree. Take them to Druid Elley.
+QUEST_LV_0200_20150406_006545	You've obtained all the toe nails of Lizard Men to find out the true nature of the tree. Take them to Druid Elley.
 QUEST_LV_0200_20150406_006546	Collect %s from orange Lizard Men
 QUEST_LV_0200_20150406_006547	Druid Elley was surprised by the result of putting the power of the tree into the molar. Talk to Druid Elley again.
 QUEST_LV_0200_20150406_006548	Collect the fluids of orange Tamas
@@ -6670,7 +6670,7 @@ QUEST_LV_0200_20150414_006669	Thank you. {nl}This will be of big help to the wea
 QUEST_LV_0200_20150414_006670	The barrier in Nevirau Ruins is the weakest so they must be headed there. {nl}Follow it quickly.
 QUEST_LV_0200_20150414_006671	The girl who left the sapling, who could it have been?
 QUEST_LV_0200_20150414_006672	I can't leave if I think about the kindness of Gina Greene. {nl}But the land is contaminated so I'm worried if I should leave nevertheless.
-QUEST_LV_0200_20150414_006673	Even someone as distant as you help me so I should cheer up. {nl}Those druids said they will help me so I should trust them.
+QUEST_LV_0200_20150414_006673	Even someone as distant as you helps me so I should cheer up. {nl}Those druids said they will help me so I should trust them.
 QUEST_LV_0200_20150414_006674	I can't stand the contamination anymore. {nl}But at least, it's better than the farm beside us.
 QUEST_LV_0200_20150414_006675	Hunt Houberg's servants from the Inner section and gather the soul pieces. {nl}Our goal is to gather as much of his soul as we can.{nl}
 QUEST_LV_0200_20150414_006676	I know the druids are trying to purify the farm. {nl}I'm just whining because of the frustration.
@@ -6770,7 +6770,7 @@ QUEST_LV_0200_20150414_006769	Well. Something like the divine spirit is spraying
 QUEST_LV_0200_20150414_006770	But, I don't know exactly the type of spirit as It's too weak.{nl}Maybe the Druid knows it.
 QUEST_LV_0200_20150414_006771	No matter what you have planned, If you don't have any permission, It is better for you to leave from here.
 QUEST_LV_0200_20150414_006772	What? Whoever you are, you can't enter here.{nl}But, It will be possible, depending on you..Do you understand?
-QUEST_LV_0200_20150414_006773	Why didn't we find anything even though It was clear they have been stealing.{nl}It is a brown grain bag. Take it quickly if you understand.
+QUEST_LV_0200_20150414_006773	Why didn't we find anything even though it was clear they have been stealing.{nl}It is a brown grain bag. Take it quickly if you understand.
 QUEST_LV_0200_20150414_006774	Did you see the people who have been damaged by the poison?{nl}The soldiers said that place is near..
 QUEST_LV_0200_20150414_006775	Get back after just defeating the Short Tree of Jole Farm.{nl}I will never ask you, if you do it.
 QUEST_LV_0200_20150414_006776	It's surely he is out of mine, because of the order to pick up the polluted grape vines.{nl}Anyway, missing the son of Shaton family is the reason..
@@ -6841,7 +6841,7 @@ QUEST_LV_0200_20150414_006840	Bury it in front of the magic barrier by collectin
 QUEST_LV_0200_20150414_006841	In order to enhance the magic barrier, the monster's spell should be buried on the ground by collecting it in a pot. Once installed inside the pot, the monsters should be gathered around.
 QUEST_LV_0200_20150414_006842	Find the person who knows the fragments
 QUEST_LV_0200_20150414_006843	Find the person who knows the clue
-QUEST_LV_0200_20150414_006844	Find out someone who knows the several fragments.
+QUEST_LV_0200_20150414_006844	Find someone who knows about the several fragments.
 QUEST_LV_0200_20150414_006845	Talk to Jonas
 QUEST_LV_0200_20150414_006846	Regain the Padeka Altar
 QUEST_LV_0200_20150414_006847	All Place of Sanctuary
@@ -6916,7 +6916,7 @@ QUEST_LV_0200_20150428_006915	He made the traps very meticulously even when he w
 QUEST_LV_0200_20150428_006916	Find the last valve in the central control room. {nl}If we destroy this, it will be safe no matter what Antares does.
 QUEST_LV_0200_20150428_006917	That night.. I hid in the grass and watched everything. {nl}In the end, they pointed their weapons at each other. And to think they were such close friends before..{nl}
 QUEST_LV_0200_20150428_006918	I realized after death that my colleagues' betrayals were because of the curse. {nl}This thing is now useless to me.. Thank you.
-QUEST_LV_0200_20150428_006919	A monster in disguise as Goddess Statue. I pity the souls. {nl}Now the souls may rest in peace. This is all thanks to you.
+QUEST_LV_0200_20150428_006919	A monster in disguise as a Goddess Statue. I pity the souls. {nl}Now the souls may rest in peace. This is all thanks to you.
 QUEST_LV_0200_20150428_006920	They made the tower such a mess. I can't forgive them.
 QUEST_LV_0200_20150428_006921	You better watch out. {nl}Why do you think even the wizards ran away?
 QUEST_LV_0200_20150428_006922	We can help Goddess Gabija if we have the Prominence Jewel.
